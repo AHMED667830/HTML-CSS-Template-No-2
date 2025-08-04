@@ -5,7 +5,7 @@ This project is a full HTML & CSS implementation of the [Kasper - One Page Creat
 I have carefully converted the original PSD design into a responsive and interactive one-page website using only HTML and CSS.
 
 ## 🔗 Live Preview
-[Click here to view the website](YOUR_LIVE_LINK_HERE)
+[Click here to view the website](https://ahmed667830.github.io/HTML-CSS-Template-No-2/)
 
 ## ✅ Features
 - Fully translated design from PSD to code
@@ -16,6 +16,7 @@ I have carefully converted the original PSD design into a responsive and interac
 ## 🛠️ Tools & Technologies Used
 - HTML5
 - CSS3
+- grid System 
 - Flexbox
 - Google Fonts
 - Font Awesome 
